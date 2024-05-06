@@ -7,7 +7,7 @@ My solutions to the LeetCode problems I solved so far.
 | # | Title | Solution | Difficulty | Notes
 |---| ----- | -------- | ---------- | -----
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3]()|Easy||
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[C]()|Easy||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java]()|Easy||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java]()|Easy||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java]()|Easy||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3]()|Medium||
