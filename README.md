@@ -18,7 +18,7 @@ My solutions to the LeetCode problems I solved so far.
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
-|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](.solutions/go/NumberOfGoodPairs.go)|Easy||
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/python3/DecodeXORedArray.py)|Easy||
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
