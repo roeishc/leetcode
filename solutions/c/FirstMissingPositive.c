@@ -1,10 +1,4 @@
 int firstMissingPositive(int* nums, int numsSize) {
-    if (numsSize == 1){
-        if (nums[0] == 1)
-            return 2;
-        else
-            return 1;
-    }
     for (int i = 0; i < numsSize; i++){
         while (1 <= nums[i] && nums[i] <= numsSize && nums[nums[i]-1] != nums[i]){
             swap(nums, nums[i]-1, i);
