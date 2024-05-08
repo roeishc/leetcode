@@ -14,6 +14,7 @@ My solutions to the LeetCode problems I solved so far.
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
