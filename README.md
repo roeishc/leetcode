@@ -1,8 +1,9 @@
 LeetCode
 ========
 
-My solutions to the LeetCode problems I solved so far.
+[LeetCode profile](https://leetcode.com/u/roeishc/)
 
+My solutions to the LeetCode problems I solved so far:
 
 | # | Title | Solution | Difficulty | Notes
 |---| ----- | -------- | ---------- | -----
