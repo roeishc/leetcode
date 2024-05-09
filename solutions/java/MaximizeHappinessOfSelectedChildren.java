@@ -3,7 +3,7 @@ class Solution {
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder());
         long res = 0;
         int temp;
-        for (int num : happiness) // creating the stack: O(n)
+        for (int num : happiness) // creating the heap: O(n)
             maxHeap.add(num);
         for (int i = 0; i < k; i++){ // removing k (largest) elements: O(k * logn)
             temp = maxHeap.remove();
