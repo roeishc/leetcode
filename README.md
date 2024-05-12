@@ -25,6 +25,7 @@ My solutions to the LeetCode problems I solved so far:
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
+|1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/java/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)|Medium||
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/python3/DecodeXORedArray.py)|Easy||
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[Python3](./solutions/python3/MinimumBitFlipsToConvertNumber.py)|Easy||
