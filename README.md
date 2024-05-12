@@ -28,6 +28,7 @@ My solutions to the LeetCode problems I solved so far:
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/python3/DecodeXORedArray.py)|Easy||
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[Python3](./solutions/python3/MinimumBitFlipsToConvertNumber.py)|Easy||
+|2373|[Largest Local Value in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./solutions/java/LargestLocalValuesInAMatrix.java)|Easy||
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Go](./solutions/go/ConvertTheTemperature.go)|Easy||
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
