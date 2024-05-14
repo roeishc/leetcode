@@ -6,7 +6,7 @@ int* kthSmallestPrimeFraction(int* arr, int arrSize, int k, int* returnSize) {
     int total, numeratorIdx, denominatorIdx, j;
     *returnSize = 2;
     int* result = (int*)malloc(sizeof(int) * (*returnSize));
-     if (!result)
+    if (!result)
         return NULL;
 
     while (left < right) {
