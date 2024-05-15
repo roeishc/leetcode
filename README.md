@@ -38,6 +38,7 @@ My solutions to the LeetCode problems I solved so far:
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)|[C](./solutions/c/DoubleANumberRepresentedAsALinkedList.c)|Medium||
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
+|2812|[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)|[Java](./solutions/java/FindTheSafestPathInAGrid.java)|Medium|Multi-source BFS|
 |2859|[Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)|[Python3](./solutions/python3/SumOfValuesAtIndicesWithKSetBits.py)|Easy||
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/)|[Python3](./solutions/python3/ChangeDataType.py)|Easy||
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[Java](./solutions/java/MaximizeHappinessOfSelectedChildren.java), [Python3](./solutions/python3/MaximizeHappinessOfSelectedChildren.py)|Medium|Java: Max Heap<br>Python3: Sorting|
