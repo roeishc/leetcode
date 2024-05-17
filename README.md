@@ -24,6 +24,7 @@ My solutions to the LeetCode problems I solved so far:
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/java/PathWithMaximumGold.java)|Medium|DFS & Backtracking|
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
