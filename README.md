@@ -10,7 +10,7 @@ Solutions to the LeetCode problems I solved so far:
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3](./solutions/python3/RomanToInteger.py)|Easy||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C](./solutions/c/FirstMissingPositive.c)|Hard||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
-|78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Easy||
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
