@@ -12,6 +12,7 @@ Solutions to the LeetCode problems I solved so far:
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python3](./solutions/python3/PalindromePartitioning.py)|Medium||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
