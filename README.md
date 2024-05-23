@@ -3,7 +3,7 @@ LeetCode
 
 [LeetCode profile](https://leetcode.com/u/roeishc/)
 
-Solutions to the LeetCode problems I solved so far:
+Solutions to the LeetCode problems I solved/studied so far:
 
 | # | Title | Solution | Difficulty | Notes
 |---| ----- | -------- | ---------- | -----
@@ -42,6 +42,7 @@ Solutions to the LeetCode problems I solved so far:
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Go](./solutions/go/ConvertTheTemperature.go)|Easy||
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
+|2597|[The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[Python3](./solutions/python3/TheNumberOfBeautifulSubsets.py)|Medium|Backtracking|
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)|[C](./solutions/c/DoubleANumberRepresentedAsALinkedList.c)|Medium||
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
 |2812|[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)|[Java](./solutions/java/FindTheSafestPathInAGrid.java)|Medium|Multi-source BFS|
