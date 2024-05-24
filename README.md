@@ -27,6 +27,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/java/PathWithMaximumGold.java)|Medium|DFS & Backtracking|
+|1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
