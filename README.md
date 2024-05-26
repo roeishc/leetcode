@@ -19,6 +19,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C](./solutions/c/FindTheDuplicateNumber.c)|Medium|Floyd's cycle detection|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./solutions/c/CountingBits.c)|Easy||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
