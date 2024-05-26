@@ -22,6 +22,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./solutions/c/CountingBits.c)|Easy||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
+|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](./solutions/java/StudentAttendanceRecordII.java)|Hard||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python3](./solutions/python3/MinimumCostToHireKWorkers.py)|Hard||
