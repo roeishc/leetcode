@@ -30,6 +30,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C](./solutions/c/RangeSumOfBST.c)|Easy||
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
+|1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C](./solutions/c/GetEqualSubstringsWithinBudget.c)|Medium|Sliding Window|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/java/PathWithMaximumGold.java)|Medium|DFS & Backtracking|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
