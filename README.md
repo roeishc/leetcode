@@ -13,6 +13,8 @@ Solutions to the LeetCode problems I solved/studied so far:
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python3](./solutions/python3/PalindromePartitioning.py)|Medium||
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C](./solutions/c/SingleNumber.c)|Easy||
+|136|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C](./solutions/c/SingleNumberII.c)|Medium||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python3](./solutions/python3/WordBreakII.py)|Hard||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
