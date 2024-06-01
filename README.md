@@ -62,3 +62,4 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/)|[Python3](./solutions/python3/ChangeDataType.py)|Easy||
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)|[C](./solutions/c/FindTheMaximumSumOfNodeValues.c)|Hard||
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[Java](./solutions/java/MaximizeHappinessOfSelectedChildren.java), [Python3](./solutions/python3/MaximizeHappinessOfSelectedChildren.py)|Medium|Java: Max Heap<br>Python3: Sorting|
+|3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Java](./solutions/java/ScoreOfAString.java)|Easy||
