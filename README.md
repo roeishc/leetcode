@@ -26,6 +26,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python3](./solutions/python3/LongestPalindrome.py)|Easy||
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/java/ContinuousSubarraySum.java)|Medium|Mathematical properties|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](./solutions/java/StudentAttendanceRecordII.java)|Hard||
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python3](./solutions/python3/ReplaceWords.py)|Medium||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
