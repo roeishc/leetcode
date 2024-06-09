@@ -12,6 +12,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python3](./solutions/python3/PascalsTriangle.py)|Easy||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python3](./solutions/python3/PalindromePartitioning.py)|Medium||
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C](./solutions/c/SingleNumber.c)|Easy||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C](./solutions/c/SingleNumberII.c)|Medium||
