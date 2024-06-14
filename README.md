@@ -38,6 +38,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C](./solutions/c/RangeSumOfBST.c)|Easy||
+|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Python3](./solutions/python3/MinimumIncrementToMakeArrayUnique.py)|Medium||
 |974|[Subarray Sum Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](./solutions/java/SubarraySumsDivisibleByK.java), [Python3](./solutions/python3/SubarraySumDivisibleByK.py)|Medium||
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./solutions/java/FindCommonCharacters.java)|Easy||
