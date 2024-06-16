@@ -24,6 +24,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C](./solutions/c/SingleNumberIII.c)|Medium||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C](./solutions/c/FindTheDuplicateNumber.c)|Medium|Floyd's cycle detection|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python3](./solutions/python3/PatchingArray.py)|Hard|Mathematical properties|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./solutions/c/CountingBits.c)|Easy||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python3](./solutions/python3/LongestPalindrome.py)|Easy||
