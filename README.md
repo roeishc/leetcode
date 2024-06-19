@@ -56,6 +56,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[C](./solutions/c/NumberOfStepsToReduceANumberInBinaryRepresentationToOne.c)|Medium||
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[C](./solutions/c/CountTripletsThatCanFormTwoArraysOfEqualXOR.c)|Medium||
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/java/RunningSumOf1dArray.java)|Easy||
+|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Python3](./solutions/python3/MinimumNumberOfDaysToMakeMBouquets.py)|Medium||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python3](./solutions/python3/CountSortedVowelStrings.py)|Medium|Dynamic Programming|
