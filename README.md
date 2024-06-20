@@ -59,6 +59,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Python3](./solutions/python3/MinimumNumberOfDaysToMakeMBouquets.py)|Medium||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
+|1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Python3](./solutions/python3/MagneticForceBetweenTwoBalls.py)|Medium|Binary Search|
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python3](./solutions/python3/CountSortedVowelStrings.py)|Medium|Dynamic Programming|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python3](./solutions/python3/SpecialArrayWithXElementsGreaterThanOrEqualX.py), [C](./solutions/c/SpecialArrayWithXElementsGreaterThanOrEqualX.c)|Easy|Python3: Sorting<br>C: Suffix Sum|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
