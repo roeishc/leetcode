@@ -45,6 +45,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Python3](./solutions/python3/MinimumIncrementToMakeArrayUnique.py)|Medium||
 |974|[Subarray Sum Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](./solutions/java/SubarraySumsDivisibleByK.java), [Python3](./solutions/python3/SubarraySumDivisibleByK.py)|Medium||
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
+|995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Python3](./solutions/python3/MinimumNumberOfKConsecutiveBitFlips.py)|Hard|Sliding Window &<br>Bit Manipulation<br>[Great editorial](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/editorial/)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./solutions/java/FindCommonCharacters.java)|Easy||
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./solutions/java/HeightChecker.java), [Python3](./solutions/python3/HeightChecker.py)|Easy|Counting Sort|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python3](./solutions/python3/GrumpyBookstoreOwner.py)|Medium|Sliding Window|
