@@ -47,6 +47,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Python3](./solutions/python3/MinimumNumberOfKConsecutiveBitFlips.py)|Hard|Sliding Window &<br>Bit Manipulation<br>[Great editorial](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/editorial/)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./solutions/java/FindCommonCharacters.java)|Easy||
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python3](./solutions/python3/BinarySearchTreeToGreaterSumTree.py)|Medium|BST, DFS|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./solutions/java/HeightChecker.java), [Python3](./solutions/python3/HeightChecker.py)|Easy|Counting Sort|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python3](./solutions/python3/GrumpyBookstoreOwner.py)|Medium|Sliding Window|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python3](./solutions/python3/RelativeSortArray.py)|Easy||
