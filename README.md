@@ -75,6 +75,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/java/SumOfAllSubsetXORTotals.java), [C](./solutions/c/SumOfAllSubsetXORTotals.c)|Easy|Java: trivial, inefficient<br>C: [Black magic](https://leetcode.com/problems/sum-of-all-subset-xor-totals/editorial/#approach-3-bit-manipulation) AKA bit manipulation|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python3](./solutions/python3/MinimumNumberOfMovesToSeatEveryone.py)|Easy||
+|2192|[All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[Python3](./solutions/python3/AllAncestorsOfANodeInADirectedAcyclicGraph.py)|Medium||
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[Python3](./solutions/python3/MinimumBitFlipsToConvertNumber.py)|Easy||
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Python3](./solutions/python3/MaximumTotalImportanceOfRoads.py)|Medium|Undirected Graph, Greedy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[C](./solutions/c/EvaluateBooleanBinaryTree.c)|Easy||
