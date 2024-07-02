@@ -27,6 +27,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python3](./solutions/python3/PatchingArray.py)|Hard|Mathematical properties|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./solutions/c/CountingBits.c)|Easy||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./solutions/c/ReverseString.c)|Easy||
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python3](./solutions/python3/IntersectionOfTwoArraysII.py)|Easy||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python3](./solutions/python3/LongestPalindrome.py)|Easy||
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python3](./solutions/python3/IPO.py)|Hard||
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
