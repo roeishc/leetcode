@@ -65,6 +65,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/java/RunningSumOf1dArray.java)|Easy||
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Python3](./solutions/python3/MinimumNumberOfDaysToMakeMBouquets.py)|Medium||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
+|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Python3](./solutions/python3/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.py)|Medium||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/python3/ThreeConsecutiveOdds.py)|Easy||
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Python3](./solutions/python3/MagneticForceBetweenTwoBalls.py)|Medium|Binary Search|
