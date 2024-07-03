@@ -21,6 +21,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/python3/KthLargestElementInAnArray.py)|Medium|One liner|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C](./solutions/c/SingleNumberIII.c)|Medium||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C](./solutions/c/FindTheDuplicateNumber.c)|Medium|Floyd's cycle detection|
