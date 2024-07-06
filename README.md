@@ -92,6 +92,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C](./solutions/c/AppendCharactersToStringToMakeSubsequence.c)|Medium||
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
 |2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./solutions/java/LeftAndRightSumDifferences.java)|Easy||
+|2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python3](./solutions/python3/PassThePillow.py)|Easy||
 |2597|[The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[Python3](./solutions/python3/TheNumberOfBeautifulSubsets.py)|Medium|Backtracking|
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
 |2812|[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)|[Java](./solutions/java/FindTheSafestPathInAGrid.java)|Medium|Multi-source BFS|
