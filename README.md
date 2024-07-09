@@ -76,6 +76,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python3](./solutions/python3/SpecialArrayWithXElementsGreaterThanOrEqualX.py), [C](./solutions/c/SpecialArrayWithXElementsGreaterThanOrEqualX.c)|Easy|Python3: Sorting<br>C: Suffix Sum|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/java/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)|Medium||
+|1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/)|[Python3](./solutions/python3/AverageWaitingTime.py)|Medium||
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/python3/DecodeXORedArray.py)|Easy||
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python3](./solutions/python3/FindCenterOfStarGraph.py)|Easy||
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/python3/FindTheWinnerOfTheCircularGame.py)|Medium|Mathematical properties|
