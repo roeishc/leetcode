@@ -72,6 +72,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/python3/ThreeConsecutiveOdds.py)|Easy||
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Python3](./solutions/python3/MagneticForceBetweenTwoBalls.py)|Medium|Binary Search|
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Python3](./solutions/python3/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.py)|Hard|Union Find, Graph|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/python3/CrawlerLogFolder.py)|Easy||
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python3](./solutions/python3/CountSortedVowelStrings.py)|Medium|Dynamic Programming|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python3](./solutions/python3/SpecialArrayWithXElementsGreaterThanOrEqualX.py), [C](./solutions/c/SpecialArrayWithXElementsGreaterThanOrEqualX.c)|Easy|Python3: Sorting<br>C: Suffix Sum|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
