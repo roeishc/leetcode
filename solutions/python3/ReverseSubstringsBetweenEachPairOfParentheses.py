@@ -28,7 +28,7 @@ class Solution:
         return res
 
 
-        # first iteration: stack of stacks, O(n^2)
+        # first solution: stack of stacks, O(n^2)
 
         # stacks: List[List[str]] = []
         # res = ""
