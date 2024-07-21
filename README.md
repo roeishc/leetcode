@@ -1,6 +1,21 @@
 LeetCode
 ========
 
+## Resources
+1. [AlgoMonster](https://algo.monster/problems/stats) - Questions/subjetcs patterns in coding interviews.
+   * Includes specific data for Amazon, Apple, Google, Meta.
+   * Includes ROI for different subjects in terms of time investments.
+   * [Flow chart](https://algo.monster/flowchart) of how to approach a problem.
+   * Honestly, a lot more.
+2. [InterviewBit](https://www.interviewbit.com/) - Similar to LeetCode.
+   * Shows company questions for free.
+   * Has a focus on timing solutions.
+3. [NeetCode](https://www.youtube.com/c/neetcode) (YouTube channel).
+   * Videos of detailed solutions with explanations - both intuitively and programmatically.
+   * Strategy of learning and solving LeetCode questions.
+
+## Solutions
+
 [LeetCode profile](https://leetcode.com/u/roeishc/)
 
 Solutions to the LeetCode problems I solved/studied so far:
