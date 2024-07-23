@@ -96,6 +96,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/python3/CrawlerLogFolder.py)|Easy||
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[Python3](./solutions/python3/FindValidMatrixGivenRowAndColumnSums.py)|Medium||
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python3](./solutions/python3/SpecialArrayWithXElementsGreaterThanOrEqualX.py), [C](./solutions/c/SpecialArrayWithXElementsGreaterThanOrEqualX.c)|Easy|Python3: Sorting<br>C: Suffix Sum|
+|1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python3](./solutions/python3/SortArrayByIncreasingFrequency.py)|Easy||
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python3](./solutions/python3/CountSortedVowelStrings.py)|Medium|Dynamic Programming|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py)|Easy||
 |1689|[Partitioning Into Minimum Number of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/java/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)|Medium||
