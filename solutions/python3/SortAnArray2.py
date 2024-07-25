@@ -13,21 +13,24 @@ class Solution:
 
 class MinHeap:
 
-    def __int__(self):
-        self.heap = []
-
-    def __init__(self, arr: List):
-        self.heap = None
-        self.build_min_heap(arr)
+    def __init__(self, arr: List = None):
+        if arr is None:
+            self.heap = []
+        else:
+            self.heap = arr
+            self.build_min_heap(arr)
 
     def push(self, val: int):
         self.heap.append(val)
-        self.min_heapify(0, len(self.heap))
+        self.bubble_up(len(self.heap) - 1)
 
     def pop(self) -> int:
+        if not self.heap:
+            raise IndexError("pop from empty heap")
         self.heap[0], self.heap[-1] = self.heap[-1], self.heap[0]
         res = self.heap.pop()
-        self.min_heapify(0, len(self.heap))
+        if self.heap:
+            self.min_heapify(0, len(self.heap))
         return res
 
     def build_min_heap(self, arr: List):
@@ -54,46 +57,60 @@ class MinHeap:
             self.heap[idx], self.heap[smallest] = self.heap[smallest], self.heap[idx]
             self.min_heapify(smallest, heap_size)
 
+    def bubble_up(self, idx: int):
+        parent = (idx - 1) // 2
+        while idx > 0 and self.heap[parent] > self.heap[idx]:
+            self.heap[idx], self.heap[parent] = self.heap[parent], self.heap[idx]
+            idx = parent
+            parent = (idx - 1) // 2
+
 
 class MaxHeap:
 
-    def __int__(self):
-        self.heap = []
-
-    def __init__(self, arr: List):
-        self.heap = None
-        self.build_max_heap(arr)
+    def __init__(self, arr: List = None):
+        if arr is None:
+            self.heap = []
+        else:
+            self.heap = arr
+            self.build_max_heap(arr)
 
     def push(self, val: int):
         self.heap.append(val)
-        self.max_heapify(0, len(self.heap))
+        self.bubble_up(len(self.heap) - 1)
 
     def pop(self) -> int:
+        if not self.heap:
+            raise IndexError("pop from empty heap")
         self.heap[0], self.heap[-1] = self.heap[-1], self.heap[0]
         res = self.heap.pop()
-        self.max_heapify(0, len(self.heap))
+        if self.heap:
+            self.max_heapify(0)
         return res
 
     def build_max_heap(self, arr: List):
-        # assuming `arr` is a list representation of an almost complete binary tree
-        self.heap = arr
         n = len(arr)
-        for i in range(len(arr) // 2, -1, -1):
-            self.max_heapify(i, n)
+        for i in range(n // 2, -1, -1):
+            self.max_heapify(i)
 
-    def max_heapify(self, idx: int, heap_size: int):
-
+    def max_heapify(self, idx: int):
+        heap_size = len(self.heap)
         left = 2 * idx + 1
         right = left + 1
-
         largest = idx
 
-        if left < heap_size and self.heap[idx] < self.heap[left]:
+        if left < heap_size and self.heap[left] > self.heap[largest]:
             largest = left
 
-        if right < heap_size and self.heap[largest] < self.heap[right]:
+        if right < heap_size and self.heap[right] > self.heap[largest]:
             largest = right
 
         if largest != idx:
             self.heap[largest], self.heap[idx] = self.heap[idx], self.heap[largest]
-            self.max_heapify(largest, heap_size)
+            self.max_heapify(largest)
+
+    def bubble_up(self, idx: int):
+        parent = (idx - 1) // 2
+        while idx > 0 and self.heap[idx] > self.heap[parent]:
+            self.heap[idx], self.heap[parent] = self.heap[parent], self.heap[idx]
+            idx = parent
+            parent = (idx - 1) // 2
