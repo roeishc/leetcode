@@ -11,7 +11,7 @@ class Solution:
         if n == 1:
             return nums
         
-        mid = len(nums) // 2
+        mid = n // 2
         
         left = self._merge_sort(nums[:mid])
         right = self._merge_sort(nums[mid:])
