@@ -78,6 +78,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Python3](./solutions/python3/CountNumberOfNiceSubarrays.py)|Medium|Sliding Window|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Python3](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.py)|Medium|Shortest Path from every node to every node. Used Dijkstra's Algorithm.|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python3](./solutions/python3/LuckyNumbersInAMatrix.py)|Easy||
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/python3/BalanceABinarySearchTree.py)|Medium||
