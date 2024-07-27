@@ -26,7 +26,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C](./solutions/c/FirstMissingPositive.c)|Hard||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python3](./solutions/python3/Pow(x,%20n).py)|Medium||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python3](./solutions/python3/SortColors1.py), [Python3](./solutions/python3/SortColors2.py)|Medium|[Counting Sort (two-pass)](./solutions/python3/SortColors1.py),<br>[Two pointers (one-pass)](./solutions/python3/SortColors2.py)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Python3|Medium|[Counting Sort (two-pass)](./solutions/python3/SortColors1.py),<br>[Two pointers (one-pass)](./solutions/python3/SortColors2.py)|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python3](./solutions/python3/PascalsTriangle.py)|Easy||
