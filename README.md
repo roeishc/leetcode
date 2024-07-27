@@ -78,7 +78,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Python3](./solutions/python3/CountNumberOfNiceSubarrays.py)|Medium|Sliding Window|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
-|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Python3](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.py)|Medium|Shortest Path from every node to every node. Used Dijkstra's Algorithm.|
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Python3](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.py)|Medium|Shortest Path from every node to every node. Used Dijkstra's algorithm.|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python3](./solutions/python3/LuckyNumbersInAMatrix.py)|Easy||
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/python3/BalanceABinarySearchTree.py)|Medium||
@@ -136,7 +136,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2859|[Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)|[Python3](./solutions/python3/SumOfValuesAtIndicesWithKSetBits.py)|Easy||
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/)|[Python3](./solutions/python3/ChangeDataType.py)|Easy||
 |2952|[Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)|[Python3](./solutions/python3/MinimumNumberOfCoinsToBeAdded.py)|Medium|Mathematical properties|
-|2976|[Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)|[Python3](./solutions/python3/MinimumCostToConvertStringI.py)|Medium|Dijkstra's Algorithm|
+|2976|[Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)|Python3|Medium|[Dijkstra's algorithm](./solutions/python3/MinimumCostToConvertStringI1.py), [Floyd-Warshall algorithm](./solutions/python3/MinimumCostToConvertStringI2.py)|
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)|[C](./solutions/c/FindTheMaximumSumOfNodeValues.c)|Hard||
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[Java](./solutions/java/MaximizeHappinessOfSelectedChildren.java), [Python3](./solutions/python3/MaximizeHappinessOfSelectedChildren.py)|Medium|Java: Max Heap<br>Python3: Sorting|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Java](./solutions/java/ScoreOfAString.java)|Easy||
