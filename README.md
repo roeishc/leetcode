@@ -35,6 +35,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C](./solutions/c/SingleNumberII.c)|Medium||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python3](./solutions/python3/WordBreakII.py)|Hard||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Python3|Medium|[Ordered Dictionary]((./solutions/python3/LRUCache1.py)), [Doubly Linked List & Hashmap]((./solutions/python3/LRUCache2.py))|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python3](./solutions/python3/NumberOfIslands.py)|Medium|BFS on a matrix|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
@@ -81,7 +82,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python3](./solutions/python3/SearchSuggestionsSystem.py)|Medium||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
-|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|Python3|Medium|Shortest Path from every node to every node.<br>[Dijkstra's algorithm](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance1.py), [Floyd-Warshall algorithm](/solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance2.py).|
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|Python3|Medium|Shortest Path from every node to every node.<br>[Dijkstra's algorithm](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance1.py), [Floyd-Warshall algorithm](/solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance2.py)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python3](./solutions/python3/LuckyNumbersInAMatrix.py)|Easy||
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/python3/BalanceABinarySearchTree.py)|Medium||
