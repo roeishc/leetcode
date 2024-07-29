@@ -86,6 +86,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python3](./solutions/python3/LuckyNumbersInAMatrix.py)|Easy||
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/python3/BalanceABinarySearchTree.py)|Medium||
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Python3](./solutions/python3/CountNumberOfTeams.py)|Medium||
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[C](./solutions/c/NumberOfStepsToReduceANumberInBinaryRepresentationToOne.c)|Medium||
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python3](./solutions/python3/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.py)|Medium|Sliding Window with 2 Heaps|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[C](./solutions/c/CountTripletsThatCanFormTwoArraysOfEqualXOR.c)|Medium||
