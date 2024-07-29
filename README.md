@@ -22,6 +22,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 
 | # | Title | Solution | Difficulty | Notes
 |---| ----- | -------- | ---------- | -----
+|3|[Longest Substring Without Repearing Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python3](./solutions/python3/LongestSubstringWithoutRepeatingCharacters.py)|Medium|Sliding Window|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3](./solutions/python3/RomanToInteger.py)|Easy||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C](./solutions/c/FirstMissingPositive.c)|Hard||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python3](./solutions/python3/Pow(x,%20n).py)|Medium||
