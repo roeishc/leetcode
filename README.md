@@ -121,6 +121,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python3](./solutions/python3/SecondMinimumTimeToReachDestination.py)|Hard|BFS with extra conditions|
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|[Python3](./solutions/python3/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.py)|Medium||
 |2096|[Step-By-Step Direction From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python3](./solutions/python3/StepByStepDirectionsFromABinaryTreeNodeToAnother.py)|Medium|BFS|
+|2134|[Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|[Python3](./solutions/python3/MinimumSwapsToGroupAll1sTogetherII.py)|Medium||
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/python3/MergeNodesInBetweenZeros.py)|Medium||
 |2191|[Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)|[Python3](./solutions/python3/SortTheJumbledNumbers.py)|Medium||
 |2192|[All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[Python3](./solutions/python3/AllAncestorsOfANodeInADirectedAcyclicGraph.py)|Medium||
