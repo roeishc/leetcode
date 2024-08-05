@@ -121,6 +121,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python3](./solutions/python3/MinimumNumberOfMovesToSeatEveryone.py)|Easy||
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python3](./solutions/python3/SecondMinimumTimeToReachDestination.py)|Hard|BFS with extra conditions|
+|2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python3](./solutions/python3/KthDistinctStringInAnArray.py)|Easy||
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|[Python3](./solutions/python3/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.py)|Medium||
 |2096|[Step-By-Step Direction From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python3](./solutions/python3/StepByStepDirectionsFromABinaryTreeNodeToAnother.py)|Medium|BFS|
 |2134|[Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|[Python3](./solutions/python3/MinimumSwapsToGroupAll1sTogetherII.py)|Medium||
