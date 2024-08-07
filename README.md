@@ -43,6 +43,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/python3/KthLargestElementInAnArray.py)|Medium|One liner|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C](./solutions/c/SingleNumberIII.c)|Medium||
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Python3](./solutions/python3/IntegerToEnglishWords.py)|Hard||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C](./solutions/c/FindTheDuplicateNumber.c)|Medium|Floyd's cycle detection|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python3](./solutions/python3/PatchingArray.py)|Hard|Mathematical properties|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./solutions/c/CountingBits.c)|Easy||
