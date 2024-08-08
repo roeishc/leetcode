@@ -64,6 +64,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python3](./solutions/python3/MinimumCostToHireKWorkers.py)|Hard||
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
+|885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python3](./solutions/python3/SpiralMatrixIII.py)|Medium||
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|Python3|Medium|Implement sorting algorithm without built-in functions.<br>[Merge Sort](./solutions/python3/SortAnArray1.py), [Heap Sort](./solutions/python3/SortAnArray2.py), [Counting Sort](./solutions/python3/SortAnArray3.py)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C](./solutions/c/RangeSumOfBST.c)|Easy||
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Python3](./solutions/python3/MinimumIncrementToMakeArrayUnique.py)|Medium||
