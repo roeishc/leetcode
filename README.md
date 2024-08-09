@@ -60,6 +60,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python3](./solutions/python3/MostProfitAssigningWork.py)|Medium||
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python3](./solutions/python3/MagicSquaresInGrid.py)|Medium||
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python3](./solutions/python3/HandOfStraights.py)|Medium||
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python3](./solutions/python3/MinimumCostToHireKWorkers.py)|Hard||
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
