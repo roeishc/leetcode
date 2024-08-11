@@ -108,6 +108,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|[Python3](./solutions/python3/NumberOfGoodLeafNodesPairs.py)|Medium|DFS, Shortest Path between nodes|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/python3/ThreeConsecutiveOdds.py)|Easy||
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Python3](./solutions/python3/MagneticForceBetweenTwoBalls.py)|Medium|Binary Search|
+|1568|[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)|[Python3](./solutions/python3/MinimumNumberOfDaysToDisconnectIsland.py)|Hard||
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Python3](./solutions/python3/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.py)|Hard|Union Find, Graph|
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/python3/CrawlerLogFolder.py)|Easy||
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[Python3](./solutions/python3/FindValidMatrixGivenRowAndColumnSums.py)|Medium||
