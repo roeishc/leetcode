@@ -59,6 +59,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Python3](./solutions/python3/SumOfSquareNumbers.py)|Medium|Mathematical properties|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python3](./solutions/python3/ReplaceWords.py)|Medium||
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python3](./solutions/python3/KthLargestElementInAStream.py)|Easy||
+|719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python3](./solutions/python3/FindKthSmallestPairDistance.py)|Hard|Sliding Window & Binary Search on the result|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python3](./solutions/python3/NumberOfAtoms.py)|Hard|Parsing string|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
