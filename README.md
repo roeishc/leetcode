@@ -67,6 +67,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python3](./solutions/python3/MagicSquaresInGrid.py)|Medium||
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python3](./solutions/python3/HandOfStraights.py)|Medium||
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python3](./solutions/python3/MinimumCostToHireKWorkers.py)|Hard||
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python3](./solutions/python3/LemonadeChange.py)|Easy||
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python3](./solutions/python3/SpiralMatrixIII.py)|Medium||
