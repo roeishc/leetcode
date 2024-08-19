@@ -60,6 +60,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[Python3](./solutions/python3/MaximumDistanceInArrays.py)|Medium||
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Python3](./solutions/python3/SumOfSquareNumbers.py)|Medium|Mathematical properties|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python3](./solutions/python3/ReplaceWords.py)|Medium||
+|650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python3](./solutions/python3/2KeysKeyboard.py)|Medium|Dynamic Programming|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python3](./solutions/python3/KthLargestElementInAStream.py)|Easy||
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python3](./solutions/python3/FindKthSmallestPairDistance.py)|Hard|Sliding Window & Binary Search on the result|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python3](./solutions/python3/NumberOfAtoms.py)|Hard|Parsing string|
