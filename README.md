@@ -89,6 +89,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Python3](./solutions/python3/FillingBookcaseShelves.py)|Medium|Dynamic Programming|
 |1110|[Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python3](./solutions/python3/DeleteNodesAndReturnForest.py)|Medium||
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python3](./solutions/python3/RelativeSortArray.py)|Easy||
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Python3](./solutions/python3/StoneGameII.py)|Medium|Dynamic Programming|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/python3/ReverseSubstringsBetweenEachPairOfParentheses.py)|Medium||
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C](./solutions/c/GetEqualSubstringsWithinBudget.c)|Medium|Sliding Window|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/java/PathWithMaximumGold.java)|Medium|DFS & Backtracking|
