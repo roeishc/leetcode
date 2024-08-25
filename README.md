@@ -38,6 +38,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C](./solutions/c/SingleNumberII.c)|Medium||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python3](./solutions/python3/WordBreakII.py)|Hard||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/java/LinkedListCycle.java)|Easy||
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python3](./solutions/python3/BinaryTreePostorderTraversal.py)|Easy||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Python3|Medium|[Ordered Dictionary](./solutions/python3/LRUCache1.py), [Doubly Linked List & Hashmap](./solutions/python3/LRUCache2.py)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python3](./solutions/python3/NumberOfIslands.py)|Medium|BFS on a matrix|
