@@ -118,6 +118,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Python3](./solutions/python3/RangeSumOfSortedSubarraySums.py)|Medium||
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Python3](./solutions/python3/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.py)|Medium||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
+|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[Python3](./solutions/python3/PathWithMaximumProbability.py)|Medium|Dijkstra's algorithm, but maximizing probability instead of minimizing distance|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python3](./solutions/python3/WaterBottles.py)|Easy|Mathematical properties|
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|[Python3](./solutions/python3/NumberOfGoodLeafNodesPairs.py)|Medium|DFS, Shortest Path between nodes|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/python3/ThreeConsecutiveOdds.py)|Easy||
