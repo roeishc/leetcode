@@ -140,6 +140,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python3](./solutions/python3/FindCenterOfStarGraph.py)|Easy||
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/python3/FindTheWinnerOfTheCircularGame.py)|Medium|Mathematical properties|
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/java/SumOfAllSubsetXORTotals.java), [C](./solutions/c/SumOfAllSubsetXORTotals.c)|Easy|Java: trivial, inefficient<br>C: [Black magic](https://leetcode.com/problems/sum-of-all-subset-xor-totals/editorial/#approach-3-bit-manipulation) AKA bit manipulation|
+|1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python3](./solutions/python3/FindTheStudentThatWillReplaceTheChalk.py)|Medium||
 |1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Python3](./solutions/python3/CountSubIslands.py)|Medium||
 |1937|[Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)|[Python3](./solutions/python3/MaximumNumberOfPointsWithCost.py)|Medium|Dynamic Programming|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
