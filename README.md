@@ -158,6 +158,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2192|[All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[Python3](./solutions/python3/AllAncestorsOfANodeInADirectedAcyclicGraph.py)|Medium||
 |2196|[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|[Python3](./solutions/python3/CreateBinaryTreeFromDescriptions.py)|Medium||
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[Python3](./solutions/python3/MinimumBitFlipsToConvertNumber.py)|Easy||
+|2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)|[Python3](./solutions/python3/IntersectionOfMultipleArrays.py)|Easy||
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Python3](./solutions/python3/MaximumTotalImportanceOfRoads.py)|Medium|Undirected Graph, Greedy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[C](./solutions/c/EvaluateBooleanBinaryTree.c)|Easy||
 |2373|[Largest Local Value in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./solutions/java/LargestLocalValuesInAMatrix.java)|Easy||
