@@ -26,6 +26,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3](./solutions/python3/RomanToInteger.py)|Easy||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python3](./solutions/python3/CombinationSumII.py)|Medium||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C](./solutions/c/FirstMissingPositive.c)|Hard||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Python3|Hard|[Solution using arrays](./solutions/python3/TrappingRainWater1.py)<br>[Solution using two pointers](./solutions/python3/TrappingRainWater2.py)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python3](./solutions/python3/Pow(x,%20n).py)|Medium||
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/python3/Merge%20Intervals.py)|Medium||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
