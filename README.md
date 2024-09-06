@@ -10,7 +10,9 @@ LeetCode
 2. [InterviewBit](https://www.interviewbit.com/) - Similar to LeetCode.
    * Shows company questions for free.
    * Has a focus on timing solutions.
-3. [NeetCode](https://www.youtube.com/c/neetcode) (YouTube channel).
+3. [NeetCode.io](https://neetcode.io/), [NeetCode YouTube channel](https://www.youtube.com/c/neetcode).
+   * [Subjects roadmap](https://neetcode.io/roadmap) for learning and practicing.
+   * [NeetCode 75 & NeetCode 150](https://neetcode.io/practice) for interview preparations.
    * Videos of detailed solutions with explanations - both intuitively and programmatically.
    * Strategy of learning and solving LeetCode questions.
 
