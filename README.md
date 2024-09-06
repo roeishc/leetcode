@@ -187,3 +187,4 @@ Solutions to the LeetCode problems I solved/studied so far:
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)|[C](./solutions/c/FindTheMaximumSumOfNodeValues.c)|Hard||
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[Java](./solutions/java/MaximizeHappinessOfSelectedChildren.java), [Python3](./solutions/python3/MaximizeHappinessOfSelectedChildren.py)|Medium|Java: Max Heap<br>Python3: Sorting|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Java](./solutions/java/ScoreOfAString.java)|Easy||
+|3217|[Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)|[Python3](./solutions/python3/DeleteNodesFromLinkedListPresentInArray.py)|Medium||
