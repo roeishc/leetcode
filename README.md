@@ -172,6 +172,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2373|[Largest Local Value in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./solutions/java/LargestLocalValuesInAMatrix.java)|Easy||
 |2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)|[Python3](./solutions/python3/BuildAMatrixWithConditions.py)|Hard|Topological Sort, DFS|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python3](./solutions/python3/SortThePeople.py)|Easy||
+|2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|[Python3](./solutions/python3/LongestSubarrayWithMaximumBitwiseAND.py)|Medium||
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Go](./solutions/go/ConvertTheTemperature.go)|Easy||
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C](./solutions/c/AppendCharactersToStringToMakeSubsequence.c)|Medium||
