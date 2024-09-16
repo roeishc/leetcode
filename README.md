@@ -61,6 +61,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python3](./solutions/python3/IPO.py)|Hard||
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/python3/RelativeRanks.py)|Easy||
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/java/ContinuousSubarraySum.java)|Medium|Mathematical properties|
+|539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python3](./solutions/python3/MinimumTimeDifference.py)|Medium||
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](./solutions/java/StudentAttendanceRecordII.java)|Hard||
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[Python3](./solutions/python3/FindTheClosestPalindrome.py)|Hard||
 |590|[N-ary Tree Postorver Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python3](./solutions/python3/N-aryTreePostorderTraversal.py)|Easy||
