@@ -44,6 +44,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python3](./solutions/python3/BinaryTreePostorderTraversal.py)|Easy||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Python3|Medium|[Ordered Dictionary](./solutions/python3/LRUCache1.py), [Doubly Linked List & Hashmap](./solutions/python3/LRUCache2.py)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/python3/CompareVersionNumbers.py)|Medium||
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/python3/LargestNumber.py)|Medium||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python3](./solutions/python3/NumberOfIslands.py)|Medium|BFS on a matrix|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/python3/KthLargestElementInAnArray.py)|Medium|One liner|
