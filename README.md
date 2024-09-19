@@ -49,6 +49,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/python3/KthLargestElementInAnArray.py)|Medium|One liner|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python3](./solutions/python3/DifferentWaysToAddParentheses.py)|Medium||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C](./solutions/c/SingleNumberIII.c)|Medium||
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python3](./solutions/python3/UglyNumberII.py)|Medium|Mathematical properties|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Python3](./solutions/python3/IntegerToEnglishWords.py)|Hard||
