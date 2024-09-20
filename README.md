@@ -47,6 +47,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/python3/LargestNumber.py)|Medium||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python3](./solutions/python3/NumberOfIslands.py)|Medium|BFS on a matrix|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./solutions/c/ReverseLinkedList.c)|Easy||
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[Python3](./solutions/python3/ShortestPalindrome.py)|Hard|Rabin–Karp algorithm|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/python3/KthLargestElementInAnArray.py)|Medium|One liner|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/python3/DeleteNodeInALinkedList.py)|Medium||
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python3](./solutions/python3/DifferentWaysToAddParentheses.py)|Medium||
