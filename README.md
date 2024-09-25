@@ -179,6 +179,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[C](./solutions/c/EvaluateBooleanBinaryTree.c)|Easy||
 |2373|[Largest Local Value in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./solutions/java/LargestLocalValuesInAMatrix.java)|Easy||
 |2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)|[Python3](./solutions/python3/BuildAMatrixWithConditions.py)|Hard|Topological Sort, DFS|
+|2416|[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)|[Python3](./solutions/python3/SumOfPrefixScoresOfStrings.py)|Hard|Trie / Prefix Tree|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python3](./solutions/python3/SortThePeople.py)|Easy||
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|[Python3](./solutions/python3/LongestSubarrayWithMaximumBitwiseAND.py)|Medium||
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
@@ -191,7 +192,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Python3](./solutions/python3/NumberOfSeniorCitizens.py)|Easy||
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python3](./solutions/python3/ModifyGraphEdgeWeights.py)|Hard|Dijkstra's algorithm|
-|2707|[Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)|[Python3](./solutions/python3/ExtraCharactersInAString.py)|Medium|Trie|
+|2707|[Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)|[Python3](./solutions/python3/ExtraCharactersInAString.py)|Medium|Trie / Prefix Tree|
 |2751|[Robot Collisions](https://leetcode.com/problems/robot-collisions/)|[Python3](./solutions/python3/RobotCollisions.py)|Hard||
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|[Python3](./solutions/python3/InsertGreatestCommonDivisorsInLinkedList.py)|Medium||
 |2812|[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)|[Java](./solutions/java/FindTheSafestPathInAGrid.java)|Medium|Multi-source BFS|
