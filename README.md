@@ -80,6 +80,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python3](./solutions/python3/FindKthSmallestPairDistance.py)|Hard|Sliding Window & Binary Search on the result|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python3](./solutions/python3/SplitLinkedListInParts.py)|Medium||
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python3](./solutions/python3/NumberOfAtoms.py)|Hard|Parsing string|
+|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python3](./solutions/python3/MyCalendarI.py)|Medium||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python3](./solutions/python3/MostProfitAssigningWork.py)|Medium||
