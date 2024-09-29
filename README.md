@@ -61,6 +61,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python3](./solutions/python3/IntersectionOfTwoArraysII.py)|Easy||
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Python3](./solutions/python3/LexicographicalNumbers.py)|Medium||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python3](./solutions/python3/LongestPalindrome.py)|Easy||
+|432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python3](/solutions/python3/AllO`oneDataStructure.py)|Medium||
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|[Python3](./solutions/python3/KthSmallestInLexicographicalOrder.py)|Hard||
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python3](./solutions/python3/NumberComplement.py)|Easy||
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python3](./solutions/python3/IPO.py)|Hard||
