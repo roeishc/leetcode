@@ -136,6 +136,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/java/RunningSumOf1dArray.java)|Easy||
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Python3](./solutions/python3/MinimumNumberOfDaysToMakeMBouquets.py)|Medium||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/python3/XOROperationInAnArray.py)|Easy||
+|1497|[Check If Array Pairs Are Divisible by K](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|[Java](./solutions/java/CheckIfArrayPairsAreDivisibleByK.java)|Medium||
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Python3](./solutions/python3/RangeSumOfSortedSubarraySums.py)|Medium||
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Python3](./solutions/python3/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.py)|Medium||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Go](./solutions/go/NumberOfGoodPairs.go)|Easy||
