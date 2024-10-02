@@ -121,6 +121,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python3](./solutions/python3/SearchSuggestionsSystem.py)|Medium||
 |1310|[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Python3](./solutions/python3/XORQueriesOfASubarray.py)|Medium||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](./solutions/java/RankTransformOfAnArray.java)|Easy||
 |1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|Python3|Medium|Shortest Path from every node to every node.<br>[Dijkstra's algorithm](./solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance1.py), [Floyd-Warshall algorithm](/solutions/python3/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance2.py)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python3](./solutions/python3/NumberOfStepsToReduceANumberToZero.py)|Easy||
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python3](./solutions/python3/LinkedListInBinaryTree.py)|Medium||
