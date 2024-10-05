@@ -70,7 +70,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python3](./solutions/python3/MinimumTimeDifference.py)|Medium||
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](./solutions/java/StudentAttendanceRecordII.java)|Hard||
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[Python3](./solutions/python3/FindTheClosestPalindrome.py)|Hard||
-|567|[PermutationInString](https://leetcode.com/problems/permutation-in-string/)|[Java](./solutions/java/PermutationInString.java)|Medium||
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](./solutions/java/PermutationInString.java)|Medium||
 |590|[N-ary Tree Postorver Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python3](./solutions/python3/N-aryTreePostorderTraversal.py)|Easy||
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)|[Python3](./solutions/python3/FractionAdditionAndSubtraction.py)|Medium||
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[Python3](./solutions/python3/MaximumDistanceInArrays.py)|Medium||
