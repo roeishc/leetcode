@@ -98,6 +98,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python3](./solutions/python3/UncommonWordsFromTwoSentences.py)|Easy||
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python3](./solutions/python3/SpiralMatrixIII.py)|Medium||
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|Python3|Medium|Implement sorting algorithm without built-in functions.<br>[Merge Sort](./solutions/python3/SortAnArray1.py), [Heap Sort](./solutions/python3/SortAnArray2.py), [Counting Sort](./solutions/python3/SortAnArray3.py)|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/python3/MinimumAddToMakeParenthesesValid.py)|Medium||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C](./solutions/c/RangeSumOfBST.c)|Easy||
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Python3](./solutions/python3/MinimumIncrementToMakeArrayUnique.py)|Medium||
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python3](./solutions/python3/MostStonesRemovedWithSameRowOrColumn.py)|Medium|Union Find|
