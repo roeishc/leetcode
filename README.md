@@ -103,6 +103,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Python3](./solutions/python3/MinimumIncrementToMakeArrayUnique.py)|Medium||
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python3](./solutions/python3/MostStonesRemovedWithSameRowOrColumn.py)|Medium|Union Find|
 |959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Python3](./solutions/python3/RegionsCutBySlashes.py)|Medium|Question can be mapped to Number of Islands (#200)|
+|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python3](./solutions/python3/MaximumWidthRamp.py)|Medium||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python3](./solutions/python3/KClosestPointsToOrigin.py)|Medium|Heap / sort by lambda function|
 |974|[Subarray Sum Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](./solutions/java/SubarraySumsDivisibleByK.java), [Python3](./solutions/python3/SubarraySumDivisibleByK.py)|Medium||
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C](./solutions/c/DistributeCoinsInBinaryTree.c)|Medium|DFS|
