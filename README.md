@@ -170,6 +170,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python3](./solutions/python3/FindTheStudentThatWillReplaceTheChalk.py)|Medium||
 |1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Python3](./solutions/python3/CountSubIslands.py)|Medium||
 |1937|[Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)|[Python3](./solutions/python3/MaximumNumberOfPointsWithCost.py)|Medium|Dynamic Programming|
+|1942|[The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/)|[Python3](./solutions/python3/TheNumberOfTheSmallestUnoccupiedChair.py)|Medium|Two heaps|
 |1945|[Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)|[Python3](./solutions/python3/SumOfDigitsOfStringAfterConvert.py)|Easy||
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Python3](./solutions/python3/MinimumNumberOfSwapsToMakeTheStringBalanced.py)|Medium||
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C](./solutions/c/ReversePrefixOfWord.c)|Easy||
