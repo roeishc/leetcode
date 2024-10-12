@@ -193,6 +193,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[C](./solutions/c/EvaluateBooleanBinaryTree.c)|Easy||
 |2373|[Largest Local Value in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./solutions/java/LargestLocalValuesInAMatrix.java)|Easy||
 |2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)|[Python3](./solutions/python3/BuildAMatrixWithConditions.py)|Hard|Topological Sort, DFS|
+|2406|[Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)|[Python3](./solutions/python3/DivideIntervalsIntoMinimumNumberOfGroups.py)|Medium||
 |2416|[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)|[Python3](./solutions/python3/SumOfPrefixScoresOfStrings.py)|Hard|Trie / Prefix Tree|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python3](./solutions/python3/SortThePeople.py)|Easy||
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|[Python3](./solutions/python3/LongestSubarrayWithMaximumBitwiseAND.py)|Medium||
