@@ -203,6 +203,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C](./solutions/c/AppendCharactersToStringToMakeSubsequence.c)|Medium||
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
 |2491|[Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|[Java](./solutions/java/DividePlayersIntoTeamsOfEqualSkill.java)|Medium||
+|2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python3](./solutions/python3/MaximalScoreAfterApplyingKOperations.py)|Medium||
 |2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./solutions/java/LeftAndRightSumDifferences.java)|Easy||
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python3](./solutions/python3/PassThePillow.py)|Easy|Mathematical properties|
 |2597|[The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[Python3](./solutions/python3/TheNumberOfBeautifulSubsets.py)|Medium|Backtracking|
