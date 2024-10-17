@@ -80,6 +80,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python3](./solutions/python3/ReplaceWords.py)|Medium||
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python3](./solutions/python3/2KeysKeyboard.py)|Medium|Dynamic Programming|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python3](./solutions/python3/StrangePrinter.py)|Hard|Dynamic Programming|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python3](./solutions/python3/MaximumSwap.py)|Medium||
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python3](./solutions/python3/KthLargestElementInAStream.py)|Easy||
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python3](./solutions/python3/FindKthSmallestPairDistance.py)|Hard|Sliding Window & Binary Search on the result|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python3](./solutions/python3/SplitLinkedListInParts.py)|Medium||
