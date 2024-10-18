@@ -180,6 +180,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[Python3](./solutions/python3/Convert1DArrayInto2DArray.py)|Easy||
 |2028|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)|[Python3](/solutions/python3/FindMissingObservations.py)|Medium|Mathematical properties|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python3](./solutions/python3/MinimumNumberOfMovesToSeatEveryone.py)|Easy||
+|2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|[Python3](./solutions/python3/CountNumberOfMaximumBitwiseORSubsets.py)|Medium||
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python3](./solutions/python3/SecondMinimumTimeToReachDestination.py)|Hard|BFS with extra conditions|
 |2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python3](./solutions/python3/KthDistinctStringInAnArray.py)|Easy||
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|[Python3](./solutions/python3/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.py)|Medium||
