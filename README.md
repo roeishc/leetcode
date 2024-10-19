@@ -150,6 +150,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|Python3|Medium|Maximizing probability instead of minimizing distance.<br>[Dijkstra's algorithm](./solutions/python3/PathWithMaximumProbability1.py), [Bellman-Ford algorithm](./solutions/python3/PathWithMaximumProbability2.py)|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python3](./solutions/python3/WaterBottles.py)|Easy|Mathematical properties|
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|[Python3](./solutions/python3/NumberOfGoodLeafNodesPairs.py)|Medium|DFS, Shortest Path between nodes|
+|1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python3](./solutions/python3/FindKthBitInNthBinaryString.py)|Medium||
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/python3/ThreeConsecutiveOdds.py)|Easy||
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Python3](./solutions/python3/MagneticForceBetweenTwoBalls.py)|Medium|Binary Search|
 |1568|[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)|[Python3](./solutions/python3/MinimumNumberOfDaysToDisconnectIsland.py)|Hard||
