@@ -123,6 +123,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/python3/ReverseSubstringsBetweenEachPairOfParentheses.py)|Medium||
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C](./solutions/c/GetEqualSubstringsWithinBudget.c)|Medium|Sliding Window|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/java/PathWithMaximumGold.java)|Medium|DFS & Backtracking|
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Python3](./solutions/python3/RemoveSubFoldersFromTheFilesystem.py)|Medium||
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Python3](./solutions/python3/CountNumberOfNiceSubarrays.py)|Medium|Sliding Window|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python3](./solutions/python3/SearchSuggestionsSystem.py)|Medium||
