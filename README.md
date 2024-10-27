@@ -127,6 +127,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Python3](./solutions/python3/CountNumberOfNiceSubarrays.py)|Medium|Sliding Window|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C](./solutions/c/MaximumScoreWordsFormedByLetters.c)|Hard||
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python3](./solutions/python3/SearchSuggestionsSystem.py)|Medium||
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python3](./solutions/python3/CountSquareSubmatricesWithAllOnes.py)|Medium||
 |1310|[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Python3](./solutions/python3/XORQueriesOfASubarray.py)|Medium||
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C](./solutions/c/DeleteLeavesWithAGivenValue.c)|Medium|DFS|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](./solutions/java/RankTransformOfAnArray.java)|Easy||
