@@ -222,7 +222,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)|[Python3](./solutions/python3/CousinsInBinaryTreeII.py)|Medium||
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Python3](./solutions/python3/NumberOfSeniorCitizens.py)|Easy||
-|2684|[Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)|[Python3](./solutions/python3/MaximumNumberOfMovesInAGrid.py)|Medium||
+|2684|[Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)|[Python3](./solutions/python3/MaximumNumberOfMovesInAGrid.py), [Java](./solutions/java/MaximumNumberOfMovesInAGrid.java)|Medium||
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)|[Python3](./solutions/python3/MinimumStringLengthAfterRemovingSubstrings.py)|Easy||
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python3](./solutions/python3/ModifyGraphEdgeWeights.py)|Hard|Dijkstra's algorithm|
 |2707|[Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)|[Python3](./solutions/python3/ExtraCharactersInAString.py)|Medium|Trie / Prefix Tree|
