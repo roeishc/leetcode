@@ -211,6 +211,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|[Python3](./solutions/python3/LongestSubarrayWithMaximumBitwiseAND.py)|Medium||
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
 |2458|[Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)|[Python3](./solutions/python3/HeightOfBinaryTreeAfterSubtreeRemovalQueries.py)|Hard||
+|2463|[Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)|[Python3](./solutions/python3/MinimumTotalDistanceTraveled.py)|Hard||
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Go](./solutions/go/ConvertTheTemperature.go)|Easy||
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C](./solutions/c/AppendCharactersToStringToMakeSubsequence.c)|Medium||
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[Java](./solutions/java/RemoveNodesFromLinkedList.java)|Medium|Monotonic Stack|
