@@ -90,6 +90,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[Python3](./solutions/python3/MyCalendarII.py)|Medium||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Java](./solutions/java/RotateString.java)|Easy||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python3](./solutions/python3/MostProfitAssigningWork.py)|Medium||
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python3](./solutions/python3/MagicSquaresInGrid.py)|Medium||
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python3](./solutions/python3/HandOfStraights.py)|Medium||
