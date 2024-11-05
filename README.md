@@ -238,6 +238,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)|[C](./solutions/c/DoubleANumberRepresentedAsALinkedList.c)|Medium||
 |2859|[Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)|[Python3](./solutions/python3/SumOfValuesAtIndicesWithKSetBits.py)|Easy||
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/)|[Python3](./solutions/python3/ChangeDataType.py)|Easy||
+|2914|[Minimum Number of Change to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)|[Python3](./solutions/python3/MinimumNumberOfChangesToMakeBinaryStringBeautiful.py)|Medium||
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)|[Python3](./solutions/python3/SeparateBlackAndWhiteBalls.py)|Medium||
 |2952|[Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)|[Python3](./solutions/python3/MinimumNumberOfCoinsToBeAdded.py)|Medium|Mathematical properties|
 |2976|[Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)|Python3|Medium|[Dijkstra's algorithm](./solutions/python3/MinimumCostToConvertStringI1.py), [Floyd-Warshall algorithm](./solutions/python3/MinimumCostToConvertStringI2.py)|
