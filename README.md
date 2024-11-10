@@ -249,6 +249,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |3043|[Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)|[Python3](./solutions/python3/FindTheLengthOfTheLongestCommonPrefix.py)|Medium||
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)|[C](./solutions/c/FindTheMaximumSumOfNodeValues.c)|Hard||
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[Java](./solutions/java/MaximizeHappinessOfSelectedChildren.java), [Python3](./solutions/python3/MaximizeHappinessOfSelectedChildren.py)|Medium|Java: Max Heap<br>Python3: Sorting|
+|3097|[Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/)|[Python3](./solutions/python3/ShortestSubarrayWithORAtLeastKII.py)|Medium||
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Java](./solutions/java/ScoreOfAString.java)|Easy||
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/)|[Java](./solutions/java/MinimumArrayEnd.java)|Medium||
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/)|[Python3](./solutions/python3/StringCompressionIII.py)|Medium||
