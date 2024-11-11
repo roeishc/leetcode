@@ -227,6 +227,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python3](./solutions/python3/PassThePillow.py)|Easy|Mathematical properties|
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|[Python3](./solutions/python3/KthLargestSumInABinaryTree.py)|Medium||
 |2597|[The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[Python3](./solutions/python3/TheNumberOfBeautifulSubsets.py)|Medium|Backtracking|
+|2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|[Python3](./solutions/python3/PrimeSubtractionOperation.py)|Medium||
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)|[Python3](./solutions/python3/CousinsInBinaryTreeII.py)|Medium||
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./solutions/java/FindThePrefixCommonArrayOfTwoArrays.java)|Medium||
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Python3](./solutions/python3/NumberOfSeniorCitizens.py)|Easy||
