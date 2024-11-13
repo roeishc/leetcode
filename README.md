@@ -224,6 +224,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2491|[Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|[Java](./solutions/java/DividePlayersIntoTeamsOfEqualSkill.java)|Medium||
 |2501|[Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)|[Python3](./solutions/python3/LongestSquareStreakInAnArray.py)|Medium||
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python3](./solutions/python3/MaximalScoreAfterApplyingKOperations.py)|Medium||
+|2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|[Python3](./solutions/python3/CountTheNumberOfFairPairs.py)|Medium||
 |2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./solutions/java/LeftAndRightSumDifferences.java)|Easy||
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python3](./solutions/python3/PassThePillow.py)|Easy|Mathematical properties|
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|[Python3](./solutions/python3/KthLargestSumInABinaryTree.py)|Medium||
