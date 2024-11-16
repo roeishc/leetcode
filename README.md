@@ -259,3 +259,4 @@ Solutions to the LeetCode problems I solved/studied so far:
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/)|[Java](./solutions/java/MinimumArrayEnd.java)|Medium||
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/)|[Python3](./solutions/python3/StringCompressionIII.py)|Medium||
 |3217|[Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)|[Python3](./solutions/python3/DeleteNodesFromLinkedListPresentInArray.py)|Medium||
+|3254|[Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)|[Python3](./solutions/python3/FindThePowerOfKSizeSubarraysI.py)|Medium||
