@@ -97,6 +97,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python3](./solutions/python3/MinimumCostToHireKWorkers.py)|Hard||
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python3](./solutions/python3/LemonadeChange.py)|Easy||
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python3](./solutions/python3/ScoreAfterFlippingMatrix.py)|Medium||
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python3](./solutions/python3/ShortestSubarrayWithSumAtLeastK.py)|Hard||
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Python3](./solutions/python3/WalkingRobotSimulation.py)|Medium||
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python3](./solutions/python3/BoatsToSavePeople.py)|Medium||
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python3](./solutions/python3/UncommonWordsFromTwoSentences.py)|Easy||
