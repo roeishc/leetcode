@@ -170,6 +170,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python3](./solutions/python3/SpecialArrayWithXElementsGreaterThanOrEqualX.py), [C](./solutions/c/SpecialArrayWithXElementsGreaterThanOrEqualX.c)|Easy|Python3: Sorting<br>C: Suffix Sum|
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python3](./solutions/python3/SortArrayByIncreasingFrequency.py)|Easy||
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python3](./solutions/python3/CountSortedVowelStrings.py)|Medium|Dynamic Programming|
+|1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python3](./solutions/python3/DefuseTheBomb.py)|Easy||
 |1653|[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|[Python3](./solutions/python3/MinimumDeletionsToMakeStringBalanced.py)|Medium||
 |1671|[Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)|[Python3](./solutions/python3/MinimumNumberOfRemovalsToMakeMountainArray.py)|Hard||
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/python3/CountTheNumberOfConsistentStrings.py), [Java](./solutions/java/CountTheNumberOfConsistentStrings.java)|Easy||
