@@ -220,6 +220,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|[Python3](./solutions/python3/LongestSubarrayWithMaximumBitwiseAND.py)|Medium||
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python3](./solutions/python3/LargestPositiveIntegerThatExistsWithItsNegative.py)|Easy||
 |2458|[Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)|[Python3](./solutions/python3/HeightOfBinaryTreeAfterSubtreeRemovalQueries.py)|Hard||
+|2461|[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)|[Python3](./solutions/python3/MaximumSumOfDistinctSubarraysWithLengthK.py)|Medium||
 |2463|[Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)|[Python3](./solutions/python3/MinimumTotalDistanceTraveled.py)|Hard||
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Go](./solutions/go/ConvertTheTemperature.go)|Easy||
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C](./solutions/c/AppendCharactersToStringToMakeSubsequence.c)|Medium||
