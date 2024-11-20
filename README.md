@@ -228,6 +228,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python3](./solutions/python3/CircularSentence.py)|Easy||
 |2491|[Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|[Java](./solutions/java/DividePlayersIntoTeamsOfEqualSkill.java)|Medium||
 |2501|[Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)|[Python3](./solutions/python3/LongestSquareStreakInAnArray.py)|Medium||
+|2516|[Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)|[Python3](./solutions/python3/TakeKOfEachCharacterFromLeftAndRight.py)|Medium||
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python3](./solutions/python3/MaximalScoreAfterApplyingKOperations.py)|Medium||
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|[Python3](./solutions/python3/CountTheNumberOfFairPairs.py)|Medium||
 |2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./solutions/java/LeftAndRightSumDifferences.java)|Easy||
