@@ -208,6 +208,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2196|[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|[Python3](./solutions/python3/CreateBinaryTreeFromDescriptions.py)|Medium||
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[Python3](./solutions/python3/MinimumBitFlipsToConvertNumber.py), [Java](./solutions/java/MinimumBitFlipsToConvertNumber.java)|Easy||
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)|[Python3](./solutions/python3/IntersectionOfMultipleArrays.py)|Easy||
+|2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)|[Python3](./solutions/python3/CountUnguardedCellsInTheGrid.py)|Medium||
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)|[Java](./solutions/java/LargestCombinationWithBitwiseAndGreaterThanZero.java)|Medium||
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Python3](./solutions/python3/MaximumTotalImportanceOfRoads.py)|Medium|Undirected Graph, Greedy|
 |2326|[Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)|[Python3](./solutions/python3/SpiralMatrixIV.py)|Medium||
