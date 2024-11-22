@@ -118,6 +118,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python3](./solutions/python3/BinarySearchTreeToGreaterSumTree.py)|Medium|BST, DFS|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./solutions/java/HeightChecker.java), [Python3](./solutions/python3/HeightChecker.py)|Easy|Counting Sort|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python3](./solutions/python3/GrumpyBookstoreOwner.py)|Medium|Sliding Window|
+|1072|[Flip Columns for Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|[Python3](./solutions/python3/FlipColumnsForMaximumNumberOfEqualRows.py)|Medium||
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Python3](./solutions/python3/FillingBookcaseShelves.py)|Medium|Dynamic Programming|
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)|[Python3](./solutions/python3/ParsingABooleanExpression.py)|Hard||
 |1110|[Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python3](./solutions/python3/DeleteNodesAndReturnForest.py)|Medium||
