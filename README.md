@@ -183,6 +183,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)|[Python3](./solutions/python3/SentenceSimilarityIII.py)|Medium||
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/python3/FindTheWinnerOfTheCircularGame.py)|Medium|Mathematical properties|
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|[Java](./solutions/java/MaximumXORForEachQuery.java)|Medium||
+|1861|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/)|[Python3](./solutions/python3/RotatingTheBox.py)|Medium||
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/java/SumOfAllSubsetXORTotals.java), [C](./solutions/c/SumOfAllSubsetXORTotals.c)|Easy|Java: trivial, inefficient<br>C: [Black magic](https://leetcode.com/problems/sum-of-all-subset-xor-totals/editorial/#approach-3-bit-manipulation) AKA bit manipulation|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python3](./solutions/python3/FindTheStudentThatWillReplaceTheChalk.py)|Medium||
 |1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Python3](./solutions/python3/CountSubIslands.py)|Medium||
