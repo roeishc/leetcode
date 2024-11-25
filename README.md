@@ -89,6 +89,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python3](./solutions/python3/MyCalendarI.py)|Medium||
 |731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[Python3](./solutions/python3/MyCalendarII.py)|Medium||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python3](./solutions/python3/SlidingPuzzle.py)|Medium||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Java](./solutions/java/RotateString.java)|Easy||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python3](./solutions/python3/MostProfitAssigningWork.py)|Medium||
