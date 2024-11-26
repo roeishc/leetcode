@@ -89,7 +89,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python3](./solutions/python3/MyCalendarI.py)|Medium||
 |731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[Python3](./solutions/python3/MyCalendarII.py)|Medium||
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/python3/JewelsAndStones.py)|Easy||
-|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python3](./solutions/python3/SlidingPuzzle.py)|Medium||
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python3](./solutions/python3/SlidingPuzzle.py)|Hard||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C](./solutions/c/KthSmallestPrimeFraction.c)|Medium||
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Java](./solutions/java/RotateString.java)|Easy||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python3](./solutions/python3/MostProfitAssigningWork.py)|Medium||
@@ -255,6 +255,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |2859|[Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)|[Python3](./solutions/python3/SumOfValuesAtIndicesWithKSetBits.py)|Easy||
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/)|[Python3](./solutions/python3/ChangeDataType.py)|Easy||
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)|[Python3](./solutions/python3/MinimumNumberOfChangesToMakeBinaryStringBeautiful.py)|Medium||
+|2924|[Find Champion II](https://leetcode.com/problems/find-champion-ii/)|[Python3](./solutions/python3/FindChampionII.py)|Medium||
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)|[Python3](./solutions/python3/SeparateBlackAndWhiteBalls.py)|Medium||
 |2952|[Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)|[Python3](./solutions/python3/MinimumNumberOfCoinsToBeAdded.py)|Medium|Mathematical properties|
 |2976|[Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)|Python3|Medium|[Dijkstra's algorithm](./solutions/python3/MinimumCostToConvertStringI1.py), [Floyd-Warshall algorithm](./solutions/python3/MinimumCostToConvertStringI2.py)|
