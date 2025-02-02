@@ -33,10 +33,13 @@ Solutions to the LeetCode problems I solved/studied so far:
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python3](./solutions/python3/Pow(x,%20n).py)|Medium||
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/python3/Merge%20Intervals.py)|Medium||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](./solutions/java/Sqrt.java)|Easy||
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python3](./solutions/python3/ClimbingStairs.py)|Easy||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Python3|Medium|[Counting Sort (two-pass)](./solutions/python3/SortColors1.py),<br>[Two pointers (one-pass)](./solutions/python3/SortColors2.py)|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/python3/Subsets.py)|Medium||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/java/BinaryTreeInorderTraversal.java)|Easy||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python3](./solutions/python3/PascalsTriangle.py)|Easy||
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python3](./solutions/python3/PascalsTriangleII.py)|Easy||
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](./solutions/python3/BestTimeToBuyAndSellStock.py)|Easy||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python3](./solutions/python3/PalindromePartitioning.py)|Medium||
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C](./solutions/c/SingleNumber.c)|Easy||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C](./solutions/c/SingleNumberII.c)|Medium||
