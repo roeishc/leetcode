@@ -180,6 +180,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/)|[Python3](./solutions/python3/AverageWaitingTime.py)|Medium||
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|[Python3](./solutions/python3/MaximumScoreFromRemovingSubstrings.py)|Medium||
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/python3/DecodeXORedArray.py)|Easy||
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python3](./solutions/python3/CheckIfArrayIsSortedAndRotated.py)|Easy||
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python3](./solutions/python3/FindCenterOfStarGraph.py)|Easy||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)|[Python3](./solutions/python3/SentenceSimilarityIII.py)|Medium||
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/python3/FindTheWinnerOfTheCircularGame.py)|Medium|Mathematical properties|
