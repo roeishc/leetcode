@@ -1,4 +1,4 @@
-LeetCode
+[LeetCode](https://leetcode.com/problemset/)
 ========
 
 ## Resources
@@ -15,6 +15,16 @@ LeetCode
    * [NeetCode 75 & NeetCode 150](https://neetcode.io/practice) for interview preparations.
    * Videos of detailed solutions with explanations - both intuitively and programmatically.
    * Strategy of learning and solving LeetCode questions.
+4. [Codility](https://app.codility.com/programmers/) - Great for simulating real exams.
+   * [Lessons](https://app.codility.com/programmers/lessons).
+   * Simulates a real exam by:
+     * Focus on writing your own testcases. No testcases are provided by this website.
+     * Timed exam.
+     * Once you submit your solution:
+       * You receive a grade.
+       * You see an explanation of successes/failures. Testcases are divided to categories such as edge cases, time complexity, etc., but no explicit testcases are provided/shown.
+       * You need to restart the exam to submit a new solution.
+
 
 ## Solutions
 
